@@ -1,0 +1,14 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #dae5ed;
+}
+
+main {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+::placeholder {
+    color: gray;
+    opacity: 1;
+  }
